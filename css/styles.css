@@ -1,0 +1,181 @@
+
+#title {
+  background-color: #ff4c68;
+}
+
+a {
+    font-family: ubuntu;
+    font-size: 1rem;
+ }
+
+h1{
+   font-family: Montserrat black;
+   color: white;
+   font-size: 3.5rem;
+   line-height: 1.5;
+   font-weight: 900;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar {
+    padding:0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-light"
+}
+
+.navbar-brand {
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+  font-weight:300;
+
+}
+
+body {
+  font-family: "Montserrat";
+
+}
+
+.Download-botton {
+  margin: 5% 3% 5% 0;
+}
+
+
+
+
+
+/* features */
+h2 {
+  font-size: 3rem;
+  font-family: "Montserrat-bold";
+  font-weight: 600;
+  padding-bottom: 40px;
+}
+
+h3  {
+  font-size: 1.5rem;
+  font-family: "Montserrat-bold";
+}
+.feat {
+  color: #8f8f8f;
+}
+
+.icon-color{
+  color: #ef8172;
+
+}
+.icon-colors:hover{
+color: #ff4c68;
+}
+
+@media screen and (max-width:1028px) {
+
+  h1 {
+    text-align: center;
+  }
+  .Download-botton {
+  text-align: center;
+
+  }
+
+
+}
+
+.iphone-dog {
+  width: 60%;
+  transform: rotate(0);
+position: relative;
+right: auto;
+left: 10%;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+}
+
+.feat-box {
+  text-align: center;
+}
+
+
+/*<!-- Testimonials --> */
+
+#testimonials{
+  background-color: #ff4c68;
+  text-align: center;
+
+  color: #fff;
+  font-size: 1.5rem;
+  font-family: "Montserrat-light";
+
+
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+ .testimonials-img {
+   border-radius: 100%;
+  width: 15%;
+
+ }
+
+#press{
+  background-color: #ff4c66;
+  text-align: center;
+}
+
+.press-img {
+  margin: 15px 20px 50px;
+  width: 10%;
+}
+
+/* .pricing-heading {
+  text-align: center;
+} */
+
+
+.bdy {
+  text-align: center;
+}
+
+.okk{
+  padding: 5%;
+  background-color: #fff;
+}
+.pr{
+  padding: 3% 2%;
+}
+
+
+#cta {
+  background-color: #ff4c66;
+  text-align: center;
+height: 400px;
+
+}
+.lst{
+  font-family: Montserrat black;
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  padding-top: 100px;
+}
+}
+
+.footer {
+  background-color: yellow;
+  text-align: center;
+}
